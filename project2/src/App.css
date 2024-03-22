@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: rgb(50, 65, 61); /* Set background color for the entire page */
+}
+
+.App {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 60px; /* Adjust padding to accommodate the fixed footer */
+}
+

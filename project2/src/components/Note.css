@@ -1,0 +1,45 @@
+.note {
+  background-color: #e0d8d2;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 250px;
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.content {
+  padding: 10px;
+  flex-grow: 1; 
+  align-items: flex-start;/* Allow content to grow to fill remaining space */
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 5px;
+}
+
+.date {
+  font-size: 12px;
+  color: #777;
+}
+
+.delete-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.delete-button img {
+  width: 20px; /* Adjust the width and height as needed */
+  height: 20px;
+}
+
+.delete-button:hover img {
+  opacity: 0.7; /* Reduce opacity on hover to indicate interactivity */
+}

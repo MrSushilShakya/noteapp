@@ -1,0 +1,10 @@
+.notefooter {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    color: white; /* Set font color to white */
+    padding: 5px;
+    text-align: center;
+  }

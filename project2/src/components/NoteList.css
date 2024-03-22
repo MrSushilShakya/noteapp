@@ -1,0 +1,10 @@
+.note-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Align notes to the start (left side) */
+  }
+  
+  .note {
+    margin: 10px;
+  }
+  
