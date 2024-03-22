@@ -17,7 +17,7 @@ To use NoteApp, follow these steps:
 
     bash
 
-git clone https://github.com/yourusername/noteapp.git
+https://github.com/MrSushilShakya/noteapp/tree/main
 
 Navigate to the project directory:
 
@@ -26,17 +26,13 @@ bash
 cd noteapp
 
 Install dependencies:
+Backend:--
 
-bash
-
-    npm install
-
-Usage
+    npm init
+    npm i express mysql
 
     Run the development server:
-
-    bash
-
+FrontEnd:--
     npm start
 
     Once the server is running, open your web browser and go to http://localhost:3000 to access the NoteApp.
