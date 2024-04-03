@@ -13,17 +13,9 @@ Installation
 
 To use NoteApp, follow these steps:
 
-    Clone the repository:
+    Clone the repository: https://github.com/MrSushilShakya/noteapp/tree/main
 
-    bash
-
-https://github.com/MrSushilShakya/noteapp/tree/main
-
-Navigate to the project directory:
-
-bash
-
-cd noteapp
+Navigate to the project directory: cd noteapp
 
 Install dependencies:
 Backend:--
@@ -49,17 +41,7 @@ To customize NoteApp, you can:
 Contributing
 
 Contributions to NoteApp are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request on GitHub.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgements
 
-    This project was inspired by the need for a simple and efficient note-taking application.
-    Special thanks to the React.js community for their contributions to the ecosystem.
 
-Contact
 
-For any inquiries or support, please contact [your email address].
-Disclaimer
-
-This project is intended for personal use and educational purposes only. The creators and contributors are not responsible for any misuse or unintended consequences of the application. Use it responsibly and ethically.
